@@ -1,0 +1,99 @@
+04/10/2020 11:58:52 PM - HomePageSearchProduct - INFO: Element Found with locator: twotabsearchtextbox and  locatorType: id
+04/10/2020 11:58:53 PM - HomePageSearchProduct - INFO: Sent data on element with locator: twotabsearchtextbox locatorType: id
+04/10/2020 11:58:53 PM - HomePageSearchProduct - INFO: Element Found with locator: //input[@value='Go'] and  locatorType: xpath
+04/10/2020 11:58:55 PM - HomePageSearchProduct - INFO: Clicked on element with locator: //input[@value='Go'] locatorType: xpath
+04/10/2020 11:58:58 PM - HomePageSearchProduct - INFO: Element Found with locator: //span[text()='R. Nageswara Rao']/..//preceding-sibling::h2/a and  locatorType: xpath
+04/10/2020 11:58:58 PM - HomePageSearchProduct - INFO: Clicked on element with locator: //span[text()='R. Nageswara Rao']/..//preceding-sibling::h2/a locatorType: xpath
+04/10/2020 11:59:01 PM - AddToCart - INFO: Element Found with locator: wishListMainButton-announce and  locatorType: id
+04/10/2020 11:59:02 PM - AddToCart - INFO: Clicked on element with locator: wishListMainButton-announce locatorType: id
+04/11/2020 12:30:27 AM - HomePageSearchProduct - INFO: Element Found with locator: twotabsearchtextbox and  locatorType: id
+04/11/2020 12:30:27 AM - HomePageSearchProduct - INFO: Sent data on element with locator: twotabsearchtextbox locatorType: id
+04/11/2020 12:30:27 AM - HomePageSearchProduct - INFO: Element Found with locator: //input[@value='Go'] and  locatorType: xpath
+04/11/2020 12:30:29 AM - HomePageSearchProduct - INFO: Clicked on element with locator: //input[@value='Go'] locatorType: xpath
+04/11/2020 12:30:32 AM - HomePageSearchProduct - INFO: Element Found with locator: //span[text()='R. Nageswara Rao']/..//preceding-sibling::h2/a and  locatorType: xpath
+04/11/2020 12:30:32 AM - HomePageSearchProduct - INFO: Clicked on element with locator: //span[text()='R. Nageswara Rao']/..//preceding-sibling::h2/a locatorType: xpath
+04/11/2020 12:30:36 AM - AddToCart - INFO: Element Found with locator: wishListMainButton-announce and  locatorType: id
+04/11/2020 12:30:36 AM - AddToCart - INFO: Clicked on element with locator: wishListMainButton-announce locatorType: id
+04/11/2020 12:52:11 AM - HomePageSearchProduct - INFO: Element Found with locator: twotabsearchtextbox and  locatorType: id
+04/11/2020 12:52:11 AM - HomePageSearchProduct - INFO: Sent data on element with locator: twotabsearchtextbox locatorType: id
+04/11/2020 12:52:11 AM - HomePageSearchProduct - INFO: Element Found with locator: //input[@value='Go'] and  locatorType: xpath
+04/11/2020 12:52:13 AM - HomePageSearchProduct - INFO: Clicked on element with locator: //input[@value='Go'] locatorType: xpath
+04/11/2020 12:52:26 AM - HomePageSearchProduct - INFO: Element not found with locator: //span[text()='R. Nageswara Rao']/..//preceding-sibling::h2/a[5] and  locatorType: xpath
+04/11/2020 12:52:26 AM - HomePageSearchProduct - INFO: Cannot click on the element with locator: //span[text()='R. Nageswara Rao']/..//preceding-sibling::h2/a[5] locatorType: xpath
+04/11/2020 12:52:29 AM - AddToCart - INFO: Unable to change the focus to the child window
+04/11/2020 12:52:39 AM - AddToCart - INFO: Element not found with locator: wishListMainButton-announce and  locatorType: id
+04/11/2020 12:52:39 AM - AddToCart - INFO: Cannot click on the element with locator: wishListMainButton-announce locatorType: id
+04/11/2020 12:54:23 AM - HomePageSearchProduct - INFO: Element Found with locator: twotabsearchtextbox and  locatorType: id
+04/11/2020 12:54:23 AM - HomePageSearchProduct - INFO: Sent data on element with locator: twotabsearchtextbox locatorType: id
+04/11/2020 12:54:23 AM - HomePageSearchProduct - INFO: Element Found with locator: //input[@value='Go'] and  locatorType: xpath
+04/11/2020 12:54:26 AM - HomePageSearchProduct - INFO: Clicked on element with locator: //input[@value='Go'] locatorType: xpath
+04/11/2020 12:54:39 AM - HomePageSearchProduct - INFO: Element not found with locator: //span[text()='R. Nageswara Rao']/..//preceding-sibling::h and  locatorType: xpath
+04/11/2020 12:54:39 AM - HomePageSearchProduct - INFO: Cannot click on the element with locator: //span[text()='R. Nageswara Rao']/..//preceding-sibling::h locatorType: xpath
+04/11/2020 12:54:42 AM - AddToCart - INFO: Unable to change the focus to the child window
+04/11/2020 12:54:52 AM - AddToCart - INFO: Element not found with locator: wishListMainButton-announce and  locatorType: id
+04/11/2020 12:54:52 AM - AddToCart - INFO: Cannot click on the element with locator: wishListMainButton-announce locatorType: id
+04/11/2020 12:59:56 AM - HomePageSearchProduct - INFO: Element Found with locator: twotabsearchtextbox and  locatorType: id
+04/11/2020 12:59:57 AM - HomePageSearchProduct - INFO: Sent data on element with locator: twotabsearchtextbox locatorType: id
+04/11/2020 12:59:57 AM - HomePageSearchProduct - INFO: Element Found with locator: //input[@value='Go'] and  locatorType: xpath
+04/11/2020 12:59:59 AM - HomePageSearchProduct - INFO: Clicked on element with locator: //input[@value='Go'] locatorType: xpath
+04/11/2020 01:00:12 AM - HomePageSearchProduct - INFO: Element not found with locator: //span[text()='R. Nageswara Rao']/..//preceding-sibling::h and  locatorType: xpath
+04/11/2020 01:00:12 AM - HomePageSearchProduct - INFO: Cannot click on the element with locator: //span[text()='R. Nageswara Rao']/..//preceding-sibling::h locatorType: xpath
+04/11/2020 01:00:15 AM - AddToCart - INFO: Unable to change the focus to the child window
+04/11/2020 01:00:25 AM - AddToCart - INFO: Element not found with locator: wishListMainButton-announce and  locatorType: id
+04/11/2020 01:00:25 AM - AddToCart - INFO: Cannot click on the element with locator: wishListMainButton-announce locatorType: id
+04/11/2020 10:45:36 AM - HomePageSearchProduct - INFO: Element Found with locator: twotabsearchtextbox and  locatorType: id
+04/11/2020 10:45:37 AM - HomePageSearchProduct - INFO: Sent data on element with locator: twotabsearchtextbox locatorType: id
+04/11/2020 10:45:37 AM - HomePageSearchProduct - INFO: Element Found with locator: //input[@value='Go'] and  locatorType: xpath
+04/11/2020 10:45:40 AM - HomePageSearchProduct - INFO: Clicked on element with locator: //input[@value='Go'] locatorType: xpath
+04/11/2020 10:45:43 AM - HomePageSearchProduct - INFO: Element Found with locator: //span[text()='R. Nageswara Rao']/..//preceding-sibling::h2/a and  locatorType: xpath
+04/11/2020 10:45:43 AM - HomePageSearchProduct - INFO: Clicked on element with locator: //span[text()='R. Nageswara Rao']/..//preceding-sibling::h2/a locatorType: xpath
+04/11/2020 10:45:46 AM - AddToCart - INFO: Element Found with locator: wishListMainButton-announce and  locatorType: id
+04/11/2020 10:45:47 AM - AddToCart - INFO: Clicked on element with locator: wishListMainButton-announce locatorType: id
+04/11/2020 11:49:30 AM - HomePageSearchProduct - INFO: Element Found with locator: twotabsearchtextbox and  locatorType: id
+04/11/2020 11:49:30 AM - HomePageSearchProduct - INFO: Sent data on element with locator: twotabsearchtextbox locatorType: id
+04/11/2020 11:49:30 AM - HomePageSearchProduct - INFO: Element Found with locator: //input[@value='Go'] and  locatorType: xpath
+04/11/2020 11:49:32 AM - HomePageSearchProduct - INFO: Clicked on element with locator: //input[@value='Go'] locatorType: xpath
+04/11/2020 11:49:35 AM - HomePageSearchProduct - INFO: Element Found with locator: //span[text()='R. Nageswara Rao']/..//preceding-sibling::h2/a and  locatorType: xpath
+04/11/2020 11:49:35 AM - HomePageSearchProduct - INFO: Clicked on element with locator: //span[text()='R. Nageswara Rao']/..//preceding-sibling::h2/a locatorType: xpath
+04/11/2020 11:49:38 AM - AddToCart - INFO: Element Found with locator: wishListMainButton-announce and  locatorType: id
+04/11/2020 11:49:39 AM - AddToCart - INFO: Clicked on element with locator: wishListMainButton-announce locatorType: id
+04/11/2020 11:58:51 AM - HomePageSearchProduct - INFO: Element Found with locator: twotabsearchtextbox and  locatorType: id
+04/11/2020 11:58:51 AM - HomePageSearchProduct - INFO: Sent data on element with locator: twotabsearchtextbox locatorType: id
+04/11/2020 11:58:51 AM - HomePageSearchProduct - INFO: Element Found with locator: //input[@value='Go'] and  locatorType: xpath
+04/11/2020 11:58:54 AM - HomePageSearchProduct - INFO: Clicked on element with locator: //input[@value='Go'] locatorType: xpath
+04/11/2020 11:58:57 AM - HomePageSearchProduct - INFO: Element Found with locator: //span[text()='R. Nageswara Rao']/..//preceding-sibling::h2/a and  locatorType: xpath
+04/11/2020 11:58:57 AM - HomePageSearchProduct - INFO: Clicked on element with locator: //span[text()='R. Nageswara Rao']/..//preceding-sibling::h2/a locatorType: xpath
+04/11/2020 11:59:00 AM - AddToCart - INFO: Element Found with locator: wishListMainButton-announce and  locatorType: id
+04/11/2020 11:59:02 AM - AddToCart - INFO: Clicked on element with locator: wishListMainButton-announce locatorType: id
+04/11/2020 12:01:41 PM - HomePageSearchProduct - INFO: Element Found with locator: twotabsearchtextbox and  locatorType: id
+04/11/2020 12:01:41 PM - HomePageSearchProduct - INFO: Sent data on element with locator: twotabsearchtextbox locatorType: id
+04/11/2020 12:01:41 PM - HomePageSearchProduct - INFO: Element Found with locator: //input[@value='Go'] and  locatorType: xpath
+04/11/2020 12:01:44 PM - HomePageSearchProduct - INFO: Clicked on element with locator: //input[@value='Go'] locatorType: xpath
+04/11/2020 12:01:47 PM - HomePageSearchProduct - INFO: Element Found with locator: //span[text()='R. Nageswara Rao']/..//preceding-sibling::h2/a and  locatorType: xpath
+04/11/2020 12:01:47 PM - HomePageSearchProduct - INFO: Clicked on element with locator: //span[text()='R. Nageswara Rao']/..//preceding-sibling::h2/a locatorType: xpath
+04/11/2020 12:01:50 PM - AddToCart - INFO: Element Found with locator: wishListMainButton-announce and  locatorType: id
+04/11/2020 12:01:51 PM - AddToCart - INFO: Clicked on element with locator: wishListMainButton-announce locatorType: id
+04/11/2020 07:06:35 PM - HomePageSearchProduct - INFO: Element Found with locator: twotabsearchtextbox and  locatorType: id
+04/11/2020 07:06:35 PM - HomePageSearchProduct - INFO: Sent data on element with locator: twotabsearchtextbox locatorType: id
+04/11/2020 07:06:35 PM - HomePageSearchProduct - INFO: Element Found with locator: //input[@value='Go'] and  locatorType: xpath
+04/11/2020 07:06:38 PM - HomePageSearchProduct - INFO: Clicked on element with locator: //input[@value='Go'] locatorType: xpath
+04/11/2020 07:06:41 PM - HomePageSearchProduct - INFO: Element Found with locator: //span[text()='R. Nageswara Rao']/..//preceding-sibling::h2/a and  locatorType: xpath
+04/11/2020 07:06:41 PM - HomePageSearchProduct - INFO: Clicked on element with locator: //span[text()='R. Nageswara Rao']/..//preceding-sibling::h2/a locatorType: xpath
+04/11/2020 07:06:44 PM - AddToCart - INFO: Element Found with locator: wishListMainButton-announce and  locatorType: id
+04/11/2020 07:06:44 PM - AddToCart - INFO: Clicked on element with locator: wishListMainButton-announce locatorType: id
+05/15/2020 03:38:42 PM - HomePageSearchProduct - INFO: Element Found with locator: twotabsearchtextbox and  locatorType: id
+05/15/2020 03:38:43 PM - HomePageSearchProduct - INFO: Sent data on element with locator: twotabsearchtextbox locatorType: id
+05/15/2020 03:38:43 PM - HomePageSearchProduct - INFO: Element Found with locator: //input[@value='Go'] and  locatorType: xpath
+05/15/2020 03:38:44 PM - HomePageSearchProduct - INFO: Clicked on element with locator: //input[@value='Go'] locatorType: xpath
+05/15/2020 03:38:47 PM - HomePageSearchProduct - INFO: Element Found with locator: //span[text()='R. Nageswara Rao']/..//preceding-sibling::h2/a and  locatorType: xpath
+05/15/2020 03:38:48 PM - HomePageSearchProduct - INFO: Clicked on element with locator: //span[text()='R. Nageswara Rao']/..//preceding-sibling::h2/a locatorType: xpath
+05/15/2020 03:38:52 PM - AddToCart - INFO: Element Found with locator: wishListMainButton-announce and  locatorType: id
+05/15/2020 03:38:54 PM - AddToCart - INFO: Clicked on element with locator: wishListMainButton-announce locatorType: id
+05/15/2020 03:39:20 PM - HomePageSearchProduct - INFO: Element Found with locator: twotabsearchtextbox and  locatorType: id
+05/15/2020 03:39:21 PM - HomePageSearchProduct - INFO: Sent data on element with locator: twotabsearchtextbox locatorType: id
+05/15/2020 03:39:21 PM - HomePageSearchProduct - INFO: Element Found with locator: //input[@value='Go'] and  locatorType: xpath
+05/15/2020 03:39:24 PM - HomePageSearchProduct - INFO: Clicked on element with locator: //input[@value='Go'] locatorType: xpath
+05/15/2020 03:39:27 PM - HomePageSearchProduct - INFO: Element Found with locator: //span[text()='R. Nageswara Rao']/..//preceding-sibling::h2/a and  locatorType: xpath
+05/15/2020 03:39:27 PM - HomePageSearchProduct - INFO: Clicked on element with locator: //span[text()='R. Nageswara Rao']/..//preceding-sibling::h2/a locatorType: xpath
+05/15/2020 03:39:32 PM - AddToCart - INFO: Element Found with locator: wishListMainButton-announce and  locatorType: id
+05/15/2020 03:39:34 PM - AddToCart - INFO: Clicked on element with locator: wishListMainButton-announce locatorType: id

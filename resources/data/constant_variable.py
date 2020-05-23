@@ -1,0 +1,1 @@
+EXCEL_PATH = "./resources/data/data_search.xlsx"
